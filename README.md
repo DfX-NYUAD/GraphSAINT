@@ -2,6 +2,8 @@
 # GraphSAINT: Graph <u>Sa</u>mpling Based <u>In</u>ductive Learning Me<u>t</u>hod
 
 
+**Note: This is a modified version to goes together with [TrojanSAINT](https://github.com/DfX-NYUAD/TrojanSAINT)**
+
 [Hanqing Zeng](https://sites.google.com/a/usc.edu/zengh/home)\*, [Hongkuan Zhou](https://tedzhouhk.github.io/about/)\*, [Ajitesh Srivastava](http://www-scf.usc.edu/~ajiteshs/), Rajgopal Kannan, [Viktor Prasanna](https://sites.usc.edu/prasanna/)
 
 **Contact**
